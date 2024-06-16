@@ -1,0 +1,17 @@
+body{
+    margin:0%;
+    padding: 0;
+    box-sizing: border-box;
+
+    font-family: 'Henny Penny', sans-serif;
+    max-width: 993px;
+    margin: 0 auto;
+    color: #fff;
+
+    background: #000 url(stars.jpg) center ;
+}
+
+.cart{
+    width: 80%;
+    background-color: #000;
+}
